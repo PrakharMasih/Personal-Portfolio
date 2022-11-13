@@ -1,3 +1,5 @@
+## [Deployed on netlify](https://prakhar007-portfolio.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
